@@ -1,12 +1,13 @@
 ﻿using System;
+using FulanoDeTalCSharpReview;
 
 namespace console
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+      Review MyReview = new Review();
     }
+  }
 }

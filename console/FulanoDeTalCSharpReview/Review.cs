@@ -1,0 +1,7 @@
+namespace FulanoDeTalCSharpReview
+{
+  class Review
+  {
+
+  }
+}
